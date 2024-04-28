@@ -1,1 +1,1 @@
-Modificando descripcion de readme
+Modificando descripcion de readme y resolviendo bug
